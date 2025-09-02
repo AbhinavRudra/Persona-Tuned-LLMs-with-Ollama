@@ -98,12 +98,3 @@ And let me tell you, our trade deals? Forget about it. They were disasters. We'r
    ```
 
 ---
-
-## ⚡ Tips
-
-* List installed models: `ollama list`
-* Show info: `ollama show <model>`
-* Rebuild after edits: `ollama create <name> -f file.modelfile`
-* Try different models (`mistral`, `phi3`) for different speed/quality trade-offs.
-
----
