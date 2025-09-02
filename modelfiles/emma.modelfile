@@ -1,3 +1,5 @@
+FROM llama3.2
+
 PARAMETER temperature 0.8
 PARAMETER top_p 0.85
 PARAMETER repeat_penalty 1.05
