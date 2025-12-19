@@ -5,8 +5,6 @@ Each Modelfile wraps a base model and applies prompt-tuning so you can interact 
 
 ---
 
-## 🚀 Quick Start
-
 ### 1. Install Ollama
 
 Follow the [official Ollama install guide](https://ollama.com/download) for your OS.
@@ -55,10 +53,6 @@ Or pass a one-off prompt:
 ```bash
 ollama run elon-voice "Write a tweet about reusable rockets."
 ```
-
-## 🎭 See It In Action
-
-Here are some real examples showing how different personas respond to the same types of questions:
 
 ### Example 1: Trump Voice on Economy
 **Question:** "What's your opinion on making America's economy stronger?"
